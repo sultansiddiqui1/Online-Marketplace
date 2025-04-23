@@ -17,9 +17,6 @@ A full-stack online marketplace web application built with Django, allowing user
 - **Frontend**: HTML, CSS, Bootstrap
 - **Other Tools**: Django ORM, Django Admin
 
-## 📸 Screenshots
-
-*(Add screenshots of your app here if available — optional)*
 
 ## 🧑‍💻 Getting Started
 
